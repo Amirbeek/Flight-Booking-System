@@ -1,19 +1,67 @@
-✈️ Flight Booking System
+# ✈️ Flight Booking System
 
-Welcome to the Flight Booking System! This Java Swing-based web application allows users to effortlessly search, book, and manage their flights while enjoying an interactive experience. Dive in to explore its features and learn how to set it up!
+Welcome to the Flight Booking System! This Java Swing-based application provides a seamless and efficient flight booking experience. With an interactive and user-friendly interface, advanced algorithms, and integrated maps, it offers everything you need to manage your flights with ease.
 
-🌟 Features
+# ✈️ Flight Booking System
 
-Intuitive User Interface: Built using Java Swing, providing a sleek and user-friendly experience. Interactive Maps: Integrated maps enhance navigation, making it easy to select departure and arrival locations. Optimized Booking Workflows: Improved transaction efficiency by 40% with streamlined booking processes. Enhanced Customer Satisfaction: A design focused on usability ensures a pleasant experience for all users.
+Welcome to the Flight Booking System! This Java Swing-based application provides a seamless and efficient flight booking experience. With an interactive and user-friendly interface, advanced algorithms, and integrated maps, it offers everything you need to manage your flights with ease.
 
-🚀 Getting Started
+## 🌟 Features
 
-Prerequisites Before you embark on your journey, ensure you have the following installed:
+- **Intuitive User Interface**: Built with Java Swing, offering a sleek and modern design.
+- **Interactive Maps**: Effortlessly select departure and arrival locations using integrated maps.
+- **Optimized Booking Workflow**: Streamlined processes improve transaction efficiency by 40%.
+- **Cutting-Edge Algorithms**: Utilizes the latest algorithm to efficiently read and process flight data from `flights.csv`.
+- **Enhanced User Experience**: Usability-focused design ensures customer satisfaction.
 
-Java Development Kit (JDK) (version 8 or later) An Integrated Development Environment (IDE) such as Eclipse or [IntelliJ IDEA]
+## 🎥 Demo
 
-Installation Clone the repository: git clone https://github.com/Amirbek-King/Flight_System.git
+[![Watch the Demo](https://img.youtube.com/vi/UzrsrJYfmdY/0.jpg)](https://youtu.be/UzrsrJYfmdY)  
+*Click the image above to watch the application demo.*
 
-Navigate to the project directory: cd Flight_System
+## 🚀 Getting Started
 
-Open the project in your IDE. Build the project and run the main class to launch the application.
+### Prerequisites
+
+Ensure the following are installed on your system:
+- **Java Development Kit (JDK)**: Version 8 or later
+- **Integrated Development Environment (IDE)**: Such as Eclipse or IntelliJ IDEA
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Amirbek-King/Flight_System.git
+
+This project is the result of teamwork and collaboration:
+# 🛠️ Team Contributions
+
+This project is the result of teamwork and collaboration:
+
+## Team Lead & Developer:
+**Amirbek Shomurodov**
+- Designed the system architecture and user interface.
+- Implemented all core functionalities using Java Swing.
+- Developed advanced algorithms for processing `flights.csv` data efficiently.
+
+## Team Members:
+- **Chakyb Abdu Mahd**: Restaurant Page
+- **To'lkin Abduvaliyev**: Shopping Page
+- **Bartek Fraczek**: Map and Restaurant Page contributor
+
+## Supervisor:
+**Zear Ibrahim**
+
+---
+
+# 📄 Documentation
+This project includes a detailed presentation and documentation. Check the repository for the files.
+
+---
+
+# 📫 Contact
+For inquiries, feel free to reach out:
+
+- **Amirbek King**: [Amirbek GitHub Portfolio](https://amirbeek.github.io/)
+
+

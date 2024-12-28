@@ -41,7 +41,7 @@ This project is the result of teamwork and collaboration:
 - Developed advanced algorithms for processing `flights.csv` data efficiently.
 
 ## Team Members:
-- **Chakyb Abdu Mahd**: Restaurant Page
+- **Mehdy Chakyb Abdi**: Restaurant Page
 - **To'lkin Abduvaliyev**: Shopping Page
 - **Bartek Fraczek**: Map and Restaurant Page contributor
 

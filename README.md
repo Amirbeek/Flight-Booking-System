@@ -58,6 +58,6 @@ This project includes a detailed presentation and documentation. Check the repos
 # 📫 Contact
 For inquiries, feel free to reach out:
 
-- **Amirbek King**: [Amirbek GitHub Portfolio](https://amirbeek.github.io/)
+- **Amirbek King**: [Amirbek GitHub Portfolio](https://www.amirbekshomurodov.me/)
 
 

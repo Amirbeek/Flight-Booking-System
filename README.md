@@ -1,3 +1,4 @@
+⭐ If you find this project helpful, consider giving it a star on GitHub! ⭐
 # ✈️ Flight Booking System
 
 Welcome to the Flight Booking System! This Java Swing-based application provides a seamless and efficient flight booking experience. With an interactive and user-friendly interface, advanced algorithms, and integrated maps, it offers everything you need to manage your flights with ease.
